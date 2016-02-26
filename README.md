@@ -1,2 +1,5 @@
 # snippets
-web dev solution snippets for common web dev issues
+
+- remove select styling for all browsers
+- phone number formatting
+- money input formatting
